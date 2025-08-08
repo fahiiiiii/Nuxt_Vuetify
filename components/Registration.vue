@@ -2,7 +2,8 @@
   <v-card
     class="mx-auto"
     max-width="344"
-    title="User Registration"
+    title="User Registration" 
+
   >
     <v-container>
       <v-text-field
