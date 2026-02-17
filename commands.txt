@@ -1,0 +1,16 @@
+npm i --save-dev @types/bcrypt
+npm install zod 
+npm install nodemailer
+
+
+
+
+
+
+
+------------------------
+rm -rf node_modules .nuxt .output package-lock.json
+npm cache clean --force
+npm install
+npm run dev
+---------------------------------------------
